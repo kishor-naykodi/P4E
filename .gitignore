@@ -1,0 +1,10 @@
+#C and C++ Gitignore
+*.exe
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+#Vs-code
+.vscode/*
+.history/

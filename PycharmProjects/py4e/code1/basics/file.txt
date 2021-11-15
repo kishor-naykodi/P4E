@@ -1,0 +1,5 @@
+What is Programming Language?
+As mentioned above, Computers understand instructions that are written in a specific syntactical form called a programming language.
+A programming language provides a way for a programmer to express a task so that it could be understood and executed by a computer.
+Refer our another blog-post What is programming language? to know more about programming languages. Some of the popular Programming languages are Python, C, C++, Java, etc.
+This is write method.
