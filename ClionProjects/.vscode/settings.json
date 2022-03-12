@@ -1,7 +1,9 @@
 {
   "files.associations": {
     "*.html": "html",
+    "*.txt": "plaintext",
     "streambuf": "c",
-    "doublylinkedlist": "c"
+    "doublylinkedlist": "c",
+    "stdlib.h": "c"
   }
 }

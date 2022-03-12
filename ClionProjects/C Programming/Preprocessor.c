@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "inclFile.c"
+#include "incl_file.c"
 
 #define PI 3.14
 #define Area_OF_Circle(r) (3.1415 * (r) * (r))
